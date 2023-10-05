@@ -10,3 +10,5 @@
 /web/sites/*/files/
 
 
+/.editorconfig
+/.gitattributes
